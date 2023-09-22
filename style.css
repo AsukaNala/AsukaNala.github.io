@@ -10,3 +10,7 @@ p {
 body {
   background-color: lightcyan;
 }
+img {
+  width: 50%;
+  height: 50%;
+}
